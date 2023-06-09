@@ -1,3 +1,0 @@
-#!/bin/bash
-cd ~
-echo "Change working directory to: $HOME"
